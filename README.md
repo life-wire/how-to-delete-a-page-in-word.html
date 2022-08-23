@@ -1,6 +1,6 @@
 # How to Delete a Page in Word?
 
-[![How to Delete a Page in Word](blue.png)](https://github.com/life-wire/how-to-delete-a-page-in-word.html)
+[![How to Delete a Page in Word](blue.png)](https://computersolve.com/how-to-delete-a-page-in-word/)
 
 If you’re wanting to delete a page containing text, graphics, or other content in a Microsoft Word document, or if you’re wanting to get rid of that blank white page at the end of your report that won’t appear to go away, here’s how.
 
